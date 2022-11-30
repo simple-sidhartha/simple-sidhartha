@@ -1,4 +1,4 @@
-[![MasterHead](https://cdn.searchenginejournal.com/wp-content/uploads/2021/07/How-to-Create-High-Quality-Content-1520x800.png)]
+![MasterHead](https://cdn.searchenginejournal.com/wp-content/uploads/2021/07/How-to-Create-High-Quality-Content-1520x800.png)
 <h1 align="center">Hi 👋, I'm Sidhartha Mishra</h1>
 <h3 align="center">A passionate web developer...</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1787323/screenshots/11819186/media/c36ed07d984d3f260617ce14efb91103.png?compress=1&resize=1600x1200&vertical=top">
